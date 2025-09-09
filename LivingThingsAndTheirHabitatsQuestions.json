@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0,
+    "question": "Where do polar bears live?",
+    "answers": [
+        "North pole",
+        "South Africa",
+        "India"
+    ],
+    "correct_answer": 0
+}, {
+    "id": 1,
+    "question": "Why to bears hibernate?",
+    "answers": [
+        "To just sleep",
+        "To get through the winter time",
+        "Cause they are bored"
+    ],
+    "correct_answer": 1
+}
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 0,
+        "question": "What colour is the sky?",
+        "answers": [
+            "orange",
+            "blue",
+            "red"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id" : 1,
+        "question": "What colour is the grass?",
+        "answers": [
+            "black",
+            "white",
+            "green"
+        ],
+        "correct_answer": 2
+    }
+]

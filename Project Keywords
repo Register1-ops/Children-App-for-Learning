@@ -1,0 +1,26 @@
+if __name__ == "__main__":
+
+# If the script is the "main" script then the special variable __name__ will
+equal "__main__". You can use this to protect the "execution" code from the classes and variables the script has.
+This enables you to import a script and use classes and variables without actually running that script's main code if it has any.
+# if __name__ == "__main__" as a way to store code that should only run when your file is executed as a script.
+
+
+
+A frame is a widget that displays as a simple rectangle. Typically, you use a frame to organize other widgets
+both visually and at the coding level.
+
+Tkinter Label widget is used to display a text or image on the screen.
+
+Button widgets represent a clickable item in the applications. Typically, you use a text or an image to display the
+action that will be performed when clicked. Buttons can display text in a single font. However, the text can span
+multiple lines. On top of that, you can make one of the characters underline to mark a keyboard shortcut.
+
+The Pack geometry manager packs widgets relative to the earlier widget. Tkinter literally packs all the widgets
+one after the other in a window.  We can use options like fill, expand, and side to control this geometry manager.
+
+
+
+
+
+
